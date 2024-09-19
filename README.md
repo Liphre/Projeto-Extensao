@@ -22,8 +22,8 @@ Este projeto é uma aplicação desenvolvida em Python utilizando a biblioteca P
 ## Estrutura do Código
 
 - **Banco de Dados**: O sistema utiliza MySQL para armazenar informações sobre pais, alunos e eventos escolares.
-  Os comandos para criação e inserção dos dados podem ser encontrados no arquivo **`comando_SQL.sql`**, localizado na pasta **`arquivo`** do repositório. Você pode acessá-lo [aqui](./arquivo/comando_sql.sql).
-  Foi criado também o projeto lógico para facilitar o entendimento. Você pode acessá-lo [aqui](./arquivo/comando_SQL.sql).
+- Comando para criação do banco com as inserções de tabela e dados, **`comando_sql.sql`** em Arquivos/comando_sql.sql
+- Projeto lógico para facilitar o entendimento:
   
 
 
