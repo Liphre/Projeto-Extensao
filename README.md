@@ -22,15 +22,13 @@ Este projeto é uma aplicação desenvolvida em Python utilizando a biblioteca P
 ## Estrutura do Código
 
 - **Banco de Dados**: O sistema utiliza MySQL para armazenar informações sobre pais, alunos e eventos escolares.
-- Comando para criação do banco com as inserções de tabela e dados, **`comando_sql.sql`** em Arquivos/comando_sql.sql
-- Projeto lógico para facilitar o entendimento:
-  
-
-
 - **Interface Gráfica**: Desenvolvida com PyQt5, permitindo uma interação amigável e intuitiva.
 - **Funções Principais**: O código inclui funções para manipular dados, conectar-se ao banco de dados e atualizar a interface do usuário.
 
+## Banco de Dados
 
+Para facilitar o entendimento do **`sistema_escola`**, criei um arquivo SQL com todos os comandos utilizados e um projeto lógico para visualizar melhor as tabelas. 
+- **Arquivo SQL**: Os comandos para criação e inserção de dados podem ser encontrados no arquivo **`comando_SQL.sql`**, localizado na pasta **`arquivo`** do repositório. Você pode acessá-lo [aqui](Projeto-Extensao/arquivo/comando_SQL.sql).
 
-## Referências
-
+- **Modelo Lógico**: Para uma melhor compreensão da estrutura do banco de dados, também foi criado um projeto lógico. Você pode visualizar o modelo na imagem abaixo:
+ <!-- Altere o caminho se necessário -->
