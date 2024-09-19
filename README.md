@@ -28,7 +28,7 @@ Este projeto é uma aplicação desenvolvida em Python utilizando a biblioteca P
 ## Banco de Dados
 
 Para facilitar o entendimento do **`sistema_escola`**, criei um arquivo SQL com todos os comandos utilizados e um projeto lógico para visualizar melhor as tabelas. 
-- **Arquivo SQL**: Os comandos para criação e inserção de dados podem ser encontrados no arquivo **`comando_SQL.sql`**, localizado na pasta **`Arquivos`** do repositório. Você pode acessá-lo [aqui](/Arquivos/comando_SQL.sql).
+- **Arquivo SQL**: Os comandos para criação e inserção de dados podem ser encontrados no arquivo **`comando_SQL.sql`**, localizado na pasta **`Arquivos`** do repositório. Você pode acessá-lo [aqui](/Arquivos/comando_sql.sql).
 
 - **Modelo Lógico**: Para uma melhor compreensão da estrutura do banco de dados, também foi criado um projeto lógico. Você pode visualizar o modelo na imagem abaixo:
  <!-- Altere o caminho se necessário -->
