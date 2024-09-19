@@ -22,12 +22,15 @@ Este projeto é uma aplicação desenvolvida em Python utilizando a biblioteca P
 ## Estrutura do Código
 
 - **Banco de Dados**: O sistema utiliza MySQL para armazenar informações sobre pais, alunos e eventos escolares.
+  Os comandos para criação e inserção dos dados podem ser encontrados no arquivo **`comando_SQL.sql`**, localizado na pasta **`arquivo`** do repositório. Você pode acessá-lo [aqui](./arquivo/comando_SQL.sql).
+  Foi criado também o projeto lógico para facilitar o entendimento. Você pode acessá-lo [aqui](./arquivo/comando_SQL.sql).
+  
+
+
 - **Interface Gráfica**: Desenvolvida com PyQt5, permitindo uma interação amigável e intuitiva.
 - **Funções Principais**: O código inclui funções para manipular dados, conectar-se ao banco de dados e atualizar a interface do usuário.
 
-## Instruções de Uso
 
-1. **Configuração do Banco de Dados**: Certifique-se de que o WAMP Server esteja em execução e o banco de dados `sistema_escola` esteja criado.
-2. **Instalação das Dependências**: Instale as bibliotecas necessárias com o comando:
-   ```bash
-   pip install PyQt5 mysql-connector-python
+
+## Referências
+
